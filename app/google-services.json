@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "263641815994",
+    "firebase_url": "https://yuntalk-c7ff4.firebaseio.com",
+    "project_id": "yuntalk-c7ff4",
+    "storage_bucket": "yuntalk-c7ff4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263641815994:android:7833afece18bb7a3",
+        "android_client_info": {
+          "package_name": "com.example.yunjjang.yuntalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263641815994-n83fq3ld97rv78e87t9r131fs8a52dmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yunjjang.yuntalk",
+            "certificate_hash": "46d95708d8ad79107ed70caa7426345a6af76870"
+          }
+        },
+        {
+          "client_id": "263641815994-9qtkde7tmcnhqo91mhunc9lk8lkhvp73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPuRjXUFHE39T3f7RsfNIDr7yC2zE9DNY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263641815994-9qtkde7tmcnhqo91mhunc9lk8lkhvp73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
